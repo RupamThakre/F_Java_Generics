@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/2_Generics_WildCard/2_Generics_WildCard.iml" filepath="$PROJECT_DIR$/2_Generics_WildCard/2_Generics_WildCard.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Common_Programs/Common_Programs.iml" filepath="$PROJECT_DIR$/Common_Programs/Common_Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_Generic_Code/Common_Programs.iml" filepath="$PROJECT_DIR$/1_Generic_Code/Common_Programs.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/F_Java_Generics.iml" filepath="$PROJECT_DIR$/.idea/F_Java_Generics.iml" />
     </modules>
   </component>
